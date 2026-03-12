@@ -22,7 +22,7 @@ md_wechat_path: './docs/wechat.md'
 
 # keywords to search
 keywords:
-    "VLM & Token Pruning": 
-        filters: ["Vision Language Model", "VLM", "Token Pruning", "Pruner"]
+    "Token Pruning": 
+        filters: [ "Token Pruning", "Pruner", "Token Compression"]
     "LLM Optimization":
-        filters: ["Large Language Models", "LLM", "Optimization"]
+        filters: ["Operations Research", "Combinatorial Optimization", "Mathematical Programming", "Optimization Solver"]
