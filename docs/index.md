@@ -2,13 +2,19 @@
 layout: default
 ---
 
-## Updated on 2026.03.12
+## Updated on 2026.03.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Token Pruning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-13**|**Cheers: Decoupling Patch Details from Semantic Representations Enables Unified Multimodal Comprehension and Generation**|Yichen Zhang et.al.|[2603.12793](http://arxiv.org/abs/2603.12793)|null|
+|**2026-03-12**|**BiGain: Unified Token Compression for Joint Generation and Classification**|Jiacheng Liu et.al.|[2603.12240](http://arxiv.org/abs/2603.12240)|null|
+|**2026-03-12**|**ForensicZip: More Tokens are Better but Not Necessary in Forensic Vision-Language Models**|Yingxin Lai et.al.|[2603.12208](http://arxiv.org/abs/2603.12208)|null|
+|**2026-03-12**|**ZeroSense:How Vision matters in Long Context Compression**|Yonghan Gao et.al.|[2603.11846](http://arxiv.org/abs/2603.11846)|null|
+|**2026-03-12**|**MedPruner: Training-Free Hierarchical Token Pruning for Efficient 3D Medical Image Understanding in Vision-Language Models**|Shengyuan Liu et.al.|[2603.11625](http://arxiv.org/abs/2603.11625)|null|
+|**2026-03-11**|**UniCompress: Token Compression for Unified Vision-Language Understanding and Generation**|Ziyao Wang et.al.|[2603.11320](http://arxiv.org/abs/2603.11320)|null|
 |**2026-03-11**|**DepthCache: Depth-Guided Training-Free Visual Token Merging for Vision-Language-Action Model Inference**|Yuquan Li et.al.|[2603.10469](http://arxiv.org/abs/2603.10469)|null|
 |**2026-03-10**|**Video-Based Reward Modeling for Computer-Use Agents**|Linxin Song et.al.|[2603.10178](http://arxiv.org/abs/2603.10178)|null|
 |**2026-03-11**|**A Voronoi Cell Formulation for Principled Token Pruning in Late-Interaction Retrieval Models**|Yash Kankanampati et.al.|[2603.09933](http://arxiv.org/abs/2603.09933)|null|
@@ -24,9 +30,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-03-11**|**Weighted Generalized Risk Measure and Risk Quandrangle: Characterization, Optimization and Application**|Yang Liu et.al.|[2603.10327](http://arxiv.org/abs/2603.10327)|null|
+|**2026-03-13**|**A common parallel framework for LLP combinatorial problems**|David Ribeiro Alves et.al.|[2603.13147](http://arxiv.org/abs/2603.13147)|null|
+|**2026-03-13**|**Improving critical buildings energy resilience via shared autonomous electric vehicles -- A sequential optimization framework**|Jinming Liu et.al.|[2603.12771](http://arxiv.org/abs/2603.12771)|null|
+|**2026-03-12**|**Deterministic Algorithm for Non-monotone Submodular Maximization under Matroid and Knapsack Constraints**|Shengminjie Chen et.al.|[2603.11996](http://arxiv.org/abs/2603.11996)|null|
+|**2026-03-12**|**UniHetCO: A Unified Heterogeneous Representation for Multi-Problem Learning in Unsupervised Neural Combinatorial Optimization**|Kien X. Nguyen et.al.|[2603.11456](http://arxiv.org/abs/2603.11456)|null|
+|**2026-03-11**|**Metaheuristic algorithm parameters selection for building an optimal hierarchical structure of a control system: a case study**|Ruslan Zakirzyanov et.al.|[2603.11091](http://arxiv.org/abs/2603.11091)|null|
+|**2026-03-12**|**Weighted Generalized Risk Measure and Risk Quadrangle: Characterization, Optimization and Application**|Yang Liu et.al.|[2603.10327](http://arxiv.org/abs/2603.10327)|null|
 |**2026-03-10**|**Actor-Accelerated Policy Dual Averaging for Reinforcement Learning in Continuous Action Spaces**|Ji Gao et.al.|[2603.10199](http://arxiv.org/abs/2603.10199)|null|
-|**2026-03-10**|**Multi-tasking through quantum annealing**|Jargalsaikhan Artag et.al.|[2603.09468](http://arxiv.org/abs/2603.09468)|null|
+|**2026-03-12**|**Multi-tasking through quantum annealing**|Jargalsaikhan Artag et.al.|[2603.09468](http://arxiv.org/abs/2603.09468)|null|
 |**2026-03-09**|**Mobile Base Station Optimal Tour in Wide Area IoT Sensor Networks**|Sachin Kadam et.al.|[2603.08828](http://arxiv.org/abs/2603.08828)|null|
 |**2026-03-09**|**Efficient Policy Learning with Hybrid Evaluation-Based Genetic Programming for Uncertain Agile Earth Observation Satellite Scheduling**|Junhua Xue et.al.|[2603.08447](http://arxiv.org/abs/2603.08447)|null|
 |**2026-03-09**|**PolyFormer: learning efficient reformulations for scalable optimization under complex physical constraints**|Yilin Wen et.al.|[2603.08283](http://arxiv.org/abs/2603.08283)|null|
