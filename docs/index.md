@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.03.23
+## Updated on 2026.03.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Token Pruning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**VLA-IAP: Training-Free Visual Token Pruning via Interaction Alignment for Vision-Language-Action Models**|Jintao Cheng et.al.|[2603.22991](http://arxiv.org/abs/2603.22991)|null|
+|**2026-03-24**|**ForestPrune: High-ratio Visual Token Compression for Video Multimodal Large Language Models via Spatial-Temporal Forest Modeling**|Shaobo Ju et.al.|[2603.22911](http://arxiv.org/abs/2603.22911)|null|
+|**2026-03-24**|**TRINE: A Token-Aware, Runtime-Adaptive FPGA Inference Engine for Multimodal AI**|Hyunwoo Oh et.al.|[2603.22867](http://arxiv.org/abs/2603.22867)|null|
+|**2026-03-23**|**A Brief Comparison of Training-Free Multi-Vector Sequence Compression Methods**|Rohan Jha et.al.|[2603.22434](http://arxiv.org/abs/2603.22434)|null|
+|**2026-03-23**|**Unified Spatiotemporal Token Compression for Video-LLMs at Ultra-Low Retention**|Junhao Du et.al.|[2603.21957](http://arxiv.org/abs/2603.21957)|null|
+|**2026-03-22**|**DyGeoVLN: Infusing Dynamic Geometry Foundation Model into Vision-Language Navigation**|Xiangchen Liu et.al.|[2603.21269](http://arxiv.org/abs/2603.21269)|null|
+|**2026-03-22**|**QMoP: Query Guided Mixture-of-Projector for Efficient Visual Token Compression**|Zhongyang Li et.al.|[2603.21232](http://arxiv.org/abs/2603.21232)|null|
+|**2026-03-22**|**ResPrune: Text-Conditioned Subspace Reconstruction for Visual Token Pruning in Large Vision-Language Models**|Xu Li et.al.|[2603.21105](http://arxiv.org/abs/2603.21105)|null|
+|**2026-03-20**|**BEAVER: A Training-Free Hierarchical Prompt Compression Method via Structure-Aware Page Selection**|Zhengpei Hu et.al.|[2603.19635](http://arxiv.org/abs/2603.19635)|null|
+|**2026-03-23**|**ParallelVLM: Lossless Video-LLM Acceleration with Visual Alignment Aware Parallel Speculative Decoding**|Quan Kong et.al.|[2603.19610](http://arxiv.org/abs/2603.19610)|null|
 |**2026-03-19**|**Multimodal Model for Computational Pathology:Representation Learning and Image Compression**|Peihang Wu et.al.|[2603.18660](http://arxiv.org/abs/2603.18660)|null|
 |**2026-03-18**|**Unified Spatio-Temporal Token Scoring for Efficient Video VLMs**|Jianrui Zhang et.al.|[2603.18004](http://arxiv.org/abs/2603.18004)|null|
 |**2026-03-15**|**DASH: Dynamic Audio-Driven Semantic Chunking for Efficient Omnimodal Token Compression**|Bingzhou Li et.al.|[2603.15685](http://arxiv.org/abs/2603.15685)|null|
@@ -36,6 +46,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-24**|**Bilevel Autoresearch: Meta-Autoresearching Itself**|Yaonan Qu et.al.|[2603.23420](http://arxiv.org/abs/2603.23420)|null|
+|**2026-03-24**|**Piecewise M-Stationarity and Related Algorithms for Mathematical Programs with Complementarity Constraints**|Kexin Wang et.al.|[2603.23389](http://arxiv.org/abs/2603.23389)|null|
+|**2026-03-24**|**Pruning for efficient deterministic global optimization over trained ReLU neural networks**|Giacomo Lastrucci et.al.|[2603.23299](http://arxiv.org/abs/2603.23299)|null|
+|**2026-03-24**|**Traveling Salesman Problem with a preprocessing method for classical and quantum optimization**|Alessia Ciacco et.al.|[2603.23290](http://arxiv.org/abs/2603.23290)|null|
+|**2026-03-24**|**Block Coordinate Descent for Dynamic Portfolio Optimization on Finite-Precision Coherent Ising Machines**|Keming He et.al.|[2603.23200](http://arxiv.org/abs/2603.23200)|null|
+|**2026-03-24**|**Accelerating Maximum Common Subgraph Computation by Exploiting Symmetries**|Buddhi Kothalawala et.al.|[2603.23031](http://arxiv.org/abs/2603.23031)|null|
+|**2026-03-23**|**Optimization-based strategic planning for geographical healthcare accessibility in developing countries: a literature review**|Laura Davila-Pena et.al.|[2603.22113](http://arxiv.org/abs/2603.22113)|null|
+|**2026-03-23**|**Global Optimization for Parametrized Quantum Circuits**|Iosif Sakos et.al.|[2603.21757](http://arxiv.org/abs/2603.21757)|null|
+|**2026-03-23**|**Non-Exclusive Notifications for Ride-Hailing at Lyft I: Single-Cycle Approximation Algorithms**|Farbod Ekbatani et.al.|[2603.21533](http://arxiv.org/abs/2603.21533)|null|
+|**2026-03-21**|**Large Neighborhood Search meets Iterative Neural Constraint Heuristics**|Yudong W. Xu et.al.|[2603.20801](http://arxiv.org/abs/2603.20801)|null|
 |**2026-03-19**|**cuGenOpt: A GPU-Accelerated General-Purpose Metaheuristic Framework for Combinatorial Optimization**|Yuyang Liu et.al.|[2603.19163](http://arxiv.org/abs/2603.19163)|null|
 |**2026-03-19**|**Variational and Annealing-Based Approaches to Quantum Combinatorial Optimization**|Hala Hawashin et.al.|[2603.19117](http://arxiv.org/abs/2603.19117)|null|
 |**2026-03-19**|**Implicit Grading Bias in Large Language Models: How Writing Style Affects Automated Assessment Across Math, Programming, and Essay Tasks**|Rudra Jadhav et.al.|[2603.18765](http://arxiv.org/abs/2603.18765)|null|
