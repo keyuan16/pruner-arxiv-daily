@@ -1,4 +1,4 @@
-## Updated on 2026.03.26
+## Updated on 2026.03.30
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -46,7 +46,7 @@
 |**2026-03-05**|**Keeping the Evidence Chain: Semantic Evidence Allocation for Training-Free Token Pruning in Video Temporal Grounding**|Jiaqi Li et.al.|[2603.05663](http://arxiv.org/abs/2603.05663)|null|
 |**2026-03-04**|**EvoPrune: Early-Stage Visual Token Pruning for Efficient MLLMs**|Yuhao Chen et.al.|[2603.03681](http://arxiv.org/abs/2603.03681)|null|
 
-<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260330>back to top</a>)</p>
 
 ## LLM Optimization
 
@@ -88,7 +88,7 @@
 |**2026-03-08**|**The Theory and Practice of Computing the Bus-Factor**|Sebastiano A. Piccolo et.al.|[2603.07845](http://arxiv.org/abs/2603.07845)|null|
 |**2026-03-08**|**Column Generation for the Micro-Transit Zoning Problem**|Hins Hu et.al.|[2603.07821](http://arxiv.org/abs/2603.07821)|null|
 
-<p align=right>(<a href=#updated-on-20260326>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260330>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
