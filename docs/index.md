@@ -2,13 +2,23 @@
 layout: default
 ---
 
-## Updated on 2026.03.30
+## Updated on 2026.03.31
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Token Pruning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-30**|**Efficient Inference of Large Vision Language Models**|Surendra Pathak et.al.|[2603.27960](http://arxiv.org/abs/2603.27960)|null|
+|**2026-03-29**|**Rényi Entropy: A New Token Pruning Metric for Vision Transformers**|Wei-Yuan Su et.al.|[2603.27900](http://arxiv.org/abs/2603.27900)|null|
+|**2026-03-29**|**V-CAST: Video Curvature-Aware Spatio-Temporal Pruning for Efficient Video Large Language Models**|Xinying Lin et.al.|[2603.27650](http://arxiv.org/abs/2603.27650)|null|
+|**2026-03-28**|**LightMover: Generative Light Movement with Color and Intensity Controls**|Gengze Zhou et.al.|[2603.27209](http://arxiv.org/abs/2603.27209)|null|
+|**2026-03-27**|**Dynamic Token Compression for Efficient Video Understanding through Reinforcement Learning**|Shida Wang et.al.|[2603.26365](http://arxiv.org/abs/2603.26365)|null|
+|**2026-03-27**|**From Pixels to Privacy: Temporally Consistent Video Anonymization via Token Pruning for Privacy Preserving Action Recognition**|Nazia Aslam et.al.|[2603.26336](http://arxiv.org/abs/2603.26336)|null|
+|**2026-03-27**|**Real-Time Branch-to-Tool Distance Estimation for Autonomous UAV Pruning: Benchmarking Five DEFOM-Stereo Variants from Simulation to Jetson Deployment**|Yida Lin et.al.|[2603.26250](http://arxiv.org/abs/2603.26250)|null|
+|**2026-03-27**|**Rethinking Token Pruning for Historical Screenshots in GUI Visual Agents: Semantic, Spatial, and Temporal Perspectives**|Daiqiang Li et.al.|[2603.26041](http://arxiv.org/abs/2603.26041)|null|
+|**2026-03-26**|**Photon: Speedup Volume Understanding with Efficient Multimodal Large Language Models**|Chengyu Fang et.al.|[2603.25155](http://arxiv.org/abs/2603.25155)|null|
+|**2026-03-25**|**ReDiPrune: Relevance-Diversity Pre-Projection Token Pruning for Efficient Multimodal LLMs**|An Yu et.al.|[2603.24680](http://arxiv.org/abs/2603.24680)|null|
 |**2026-03-24**|**VLA-IAP: Training-Free Visual Token Pruning via Interaction Alignment for Vision-Language-Action Models**|Jintao Cheng et.al.|[2603.22991](http://arxiv.org/abs/2603.22991)|null|
 |**2026-03-24**|**ForestPrune: High-ratio Visual Token Compression for Video Multimodal Large Language Models via Spatial-Temporal Forest Modeling**|Shaobo Ju et.al.|[2603.22911](http://arxiv.org/abs/2603.22911)|null|
 |**2026-03-24**|**TRINE: A Token-Aware, Runtime-Adaptive FPGA Inference Engine for Multimodal AI**|Hyunwoo Oh et.al.|[2603.22867](http://arxiv.org/abs/2603.22867)|null|
@@ -46,6 +56,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-30**|**Resource-efficient quantum approximate optimization algorithm via Bayesian optimization and maximum-probability evaluation**|Siran Zhang et.al.|[2603.28413](http://arxiv.org/abs/2603.28413)|null|
+|**2026-03-30**|**Critic-Free Deep Reinforcement Learning for Maritime Coverage Path Planning on Irregular Hexagonal Grids**|Carlos S. Sepúlveda et.al.|[2603.28385](http://arxiv.org/abs/2603.28385)|null|
+|**2026-03-30**|**Quantum-inspired Tensor Network for QUBO, QUDO and Tensor QUDO Problems with k-neighbors**|Sergio Muñiz Subiñas et.al.|[2603.28065](http://arxiv.org/abs/2603.28065)|null|
+|**2026-03-30**|**GEAKG: Generative Executable Algorithm Knowledge Graphs**|Camilo Chacón Sartori et.al.|[2603.27922](http://arxiv.org/abs/2603.27922)|null|
+|**2026-03-29**|**Q-BIOLAT: Binary Latent Protein Fitness Landscapes for QUBO-Based Optimization**|Truong-Son Hy et.al.|[2603.27526](http://arxiv.org/abs/2603.27526)|null|
+|**2026-03-28**|**Aligning LLMs with Graph Neural Solvers for Combinatorial Optimization**|Shaodi Feng et.al.|[2603.27169](http://arxiv.org/abs/2603.27169)|null|
+|**2026-03-27**|**Efficient CMOS Invertible Logic Using Stochastic Computing**|Sean C. Smithson et.al.|[2603.27030](http://arxiv.org/abs/2603.27030)|null|
+|**2026-03-27**|**A Canceling Heuristic for the Directed Traveling Salesman Problem**|Steffen Borgwardt et.al.|[2603.26564](http://arxiv.org/abs/2603.26564)|null|
+|**2026-03-27**|**ParaQAOA: Efficient Parallel Divide-and-Conquer QAOA for Large-Scale Max-Cut Problems Beyond 10,000 Vertices**|Po-Hsuan Huang et.al.|[2603.26232](http://arxiv.org/abs/2603.26232)|null|
+|**2026-03-26**|**Instance-optimal stochastic convex optimization: Can we improve upon sample-average and robust stochastic approximation?**|Liwei Jiang et.al.|[2603.25657](http://arxiv.org/abs/2603.25657)|null|
 |**2026-03-24**|**Bilevel Autoresearch: Meta-Autoresearching Itself**|Yaonan Qu et.al.|[2603.23420](http://arxiv.org/abs/2603.23420)|null|
 |**2026-03-24**|**Piecewise M-Stationarity and Related Algorithms for Mathematical Programs with Complementarity Constraints**|Kexin Wang et.al.|[2603.23389](http://arxiv.org/abs/2603.23389)|null|
 |**2026-03-24**|**Pruning for efficient deterministic global optimization over trained ReLU neural networks**|Giacomo Lastrucci et.al.|[2603.23299](http://arxiv.org/abs/2603.23299)|null|
