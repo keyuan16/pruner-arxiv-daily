@@ -2,13 +2,14 @@
 layout: default
 ---
 
-## Updated on 2026.03.31
+## Updated on 2026.04.01
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Token Pruning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-03-31**|**SeGPruner: Semantic-Geometric Visual Token Pruner for 3D Question Answering**|Wenli Li et.al.|[2603.29437](http://arxiv.org/abs/2603.29437)|null|
 |**2026-03-30**|**Efficient Inference of Large Vision Language Models**|Surendra Pathak et.al.|[2603.27960](http://arxiv.org/abs/2603.27960)|null|
 |**2026-03-29**|**Rényi Entropy: A New Token Pruning Metric for Vision Transformers**|Wei-Yuan Su et.al.|[2603.27900](http://arxiv.org/abs/2603.27900)|null|
 |**2026-03-29**|**V-CAST: Video Curvature-Aware Spatio-Temporal Pruning for Efficient Video Large Language Models**|Xinying Lin et.al.|[2603.27650](http://arxiv.org/abs/2603.27650)|null|
@@ -16,7 +17,7 @@ layout: default
 |**2026-03-27**|**Dynamic Token Compression for Efficient Video Understanding through Reinforcement Learning**|Shida Wang et.al.|[2603.26365](http://arxiv.org/abs/2603.26365)|null|
 |**2026-03-27**|**From Pixels to Privacy: Temporally Consistent Video Anonymization via Token Pruning for Privacy Preserving Action Recognition**|Nazia Aslam et.al.|[2603.26336](http://arxiv.org/abs/2603.26336)|null|
 |**2026-03-27**|**Real-Time Branch-to-Tool Distance Estimation for Autonomous UAV Pruning: Benchmarking Five DEFOM-Stereo Variants from Simulation to Jetson Deployment**|Yida Lin et.al.|[2603.26250](http://arxiv.org/abs/2603.26250)|null|
-|**2026-03-27**|**Rethinking Token Pruning for Historical Screenshots in GUI Visual Agents: Semantic, Spatial, and Temporal Perspectives**|Daiqiang Li et.al.|[2603.26041](http://arxiv.org/abs/2603.26041)|null|
+|**2026-03-31**|**Rethinking Token Pruning for Historical Screenshots in GUI Visual Agents: Semantic, Spatial, and Temporal Perspectives**|Daiqiang Li et.al.|[2603.26041](http://arxiv.org/abs/2603.26041)|null|
 |**2026-03-26**|**Photon: Speedup Volume Understanding with Efficient Multimodal Large Language Models**|Chengyu Fang et.al.|[2603.25155](http://arxiv.org/abs/2603.25155)|null|
 |**2026-03-25**|**ReDiPrune: Relevance-Diversity Pre-Projection Token Pruning for Efficient Multimodal LLMs**|An Yu et.al.|[2603.24680](http://arxiv.org/abs/2603.24680)|null|
 |**2026-03-24**|**VLA-IAP: Training-Free Visual Token Pruning via Interaction Alignment for Vision-Language-Action Models**|Jintao Cheng et.al.|[2603.22991](http://arxiv.org/abs/2603.22991)|null|
@@ -56,7 +57,10 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
-|**2026-03-30**|**Resource-efficient quantum approximate optimization algorithm via Bayesian optimization and maximum-probability evaluation**|Siran Zhang et.al.|[2603.28413](http://arxiv.org/abs/2603.28413)|null|
+|**2026-03-31**|**The Grothendieck Constant is Strictly Larger than Davie-Reeds' Bound**|Chris Jones et.al.|[2603.30039](http://arxiv.org/abs/2603.30039)|null|
+|**2026-03-31**|**Reducing Complexity for Quantum Approaches in Train Load Optimization**|Zhijie Tang et.al.|[2603.29543](http://arxiv.org/abs/2603.29543)|null|
+|**2026-03-31**|**Learning Semantic Priorities for Autonomous Target Search**|Max Lodel et.al.|[2603.29391](http://arxiv.org/abs/2603.29391)|null|
+|**2026-03-31**|**Resource-efficient quantum approximate optimization algorithm via Bayesian optimization and maximum-probability evaluation**|Siran Zhang et.al.|[2603.28413](http://arxiv.org/abs/2603.28413)|null|
 |**2026-03-30**|**Critic-Free Deep Reinforcement Learning for Maritime Coverage Path Planning on Irregular Hexagonal Grids**|Carlos S. Sepúlveda et.al.|[2603.28385](http://arxiv.org/abs/2603.28385)|null|
 |**2026-03-30**|**Quantum-inspired Tensor Network for QUBO, QUDO and Tensor QUDO Problems with k-neighbors**|Sergio Muñiz Subiñas et.al.|[2603.28065](http://arxiv.org/abs/2603.28065)|null|
 |**2026-03-30**|**GEAKG: Generative Executable Algorithm Knowledge Graphs**|Camilo Chacón Sartori et.al.|[2603.27922](http://arxiv.org/abs/2603.27922)|null|
