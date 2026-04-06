@@ -1,4 +1,4 @@
-## Updated on 2026.04.01
+## Updated on 2026.04.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-03**|**MI-Pruner: Crossmodal Mutual Information-guided Token Pruner for Efficient MLLMs**|Jiameng Li et.al.|[2604.03072](http://arxiv.org/abs/2604.03072)|null|
+|**2026-04-03**|**Collaborative Multi-Mode Pruning for Vision-Language Models**|Zimeng Wu et.al.|[2604.02956](http://arxiv.org/abs/2604.02956)|null|
+|**2026-04-03**|**QAPruner: Quantization-Aware Vision Token Pruning for Multimodal Large Language Models**|Xinhao Wang et.al.|[2604.02816](http://arxiv.org/abs/2604.02816)|null|
+|**2026-04-03**|**Efficient3D: A Unified Framework for Adaptive and Debiased Token Reduction in 3D MLLMs**|Yuhui Lin et.al.|[2604.02689](http://arxiv.org/abs/2604.02689)|null|
+|**2026-04-02**|**Token-Efficient Multimodal Reasoning via Image Prompt Packaging**|Joong Ho Choi et.al.|[2604.02492](http://arxiv.org/abs/2604.02492)|null|
+|**2026-04-02**|**HieraVid: Hierarchical Token Pruning for Fast Video Large Language Models**|Yansong Guo et.al.|[2604.01881](http://arxiv.org/abs/2604.01881)|null|
+|**2026-04-01**|**IWP: Token Pruning as Implicit Weight Pruning in Large Vision Language Models**|Dong-Jae Lee et.al.|[2604.00757](http://arxiv.org/abs/2604.00757)|null|
 |**2026-03-31**|**SeGPruner: Semantic-Geometric Visual Token Pruner for 3D Question Answering**|Wenli Li et.al.|[2603.29437](http://arxiv.org/abs/2603.29437)|null|
 |**2026-03-30**|**Efficient Inference of Large Vision Language Models**|Surendra Pathak et.al.|[2603.27960](http://arxiv.org/abs/2603.27960)|null|
 |**2026-03-29**|**Rényi Entropy: A New Token Pruning Metric for Vision Transformers**|Wei-Yuan Su et.al.|[2603.27900](http://arxiv.org/abs/2603.27900)|null|
@@ -57,12 +64,22 @@
 |**2026-03-05**|**Keeping the Evidence Chain: Semantic Evidence Allocation for Training-Free Token Pruning in Video Temporal Grounding**|Jiaqi Li et.al.|[2603.05663](http://arxiv.org/abs/2603.05663)|null|
 |**2026-03-04**|**EvoPrune: Early-Stage Visual Token Pruning for Efficient MLLMs**|Yuhao Chen et.al.|[2603.03681](http://arxiv.org/abs/2603.03681)|null|
 
-<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
 
 ## LLM Optimization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-03**|**Let's Have a Conversation: Designing and Evaluating LLM Agents for Interactive Optimization**|Joshua Drossman et.al.|[2604.02666](http://arxiv.org/abs/2604.02666)|null|
+|**2026-04-02**|**RFOX (Rotated-Field Oscillatory eXchange) quantum algorithm: Towards Parameter-Free Quantum Optimizers**|Brian García Sarmina et.al.|[2604.02569](http://arxiv.org/abs/2604.02569)|null|
+|**2026-04-02**|**Principled and Scalable Diversity-Aware Retrieval via Cardinality-Constrained Binary Quadratic Programming**|Qiheng Lu et.al.|[2604.02554](http://arxiv.org/abs/2604.02554)|null|
+|**2026-04-02**|**On vehicle routing problems with stochastic demands -- Scenario-optimal recourse policies**|Matheus J. Ota et.al.|[2604.02496](http://arxiv.org/abs/2604.02496)|null|
+|**2026-04-02**|**Scalable Determination of Penalization Weights for Constrained Optimizations on Approximate Solvers**|Edoardo Alessandroni et.al.|[2604.02416](http://arxiv.org/abs/2604.02416)|null|
+|**2026-04-02**|**Constrained Quantum Optimization via Iterative Warm-Start XY-Mixers**|David Bucher et.al.|[2604.02083](http://arxiv.org/abs/2604.02083)|null|
+|**2026-04-02**|**Random Coordinate Descent on the Wasserstein Space of Probability Measures**|Yewei Xu et.al.|[2604.01606](http://arxiv.org/abs/2604.01606)|null|
+|**2026-04-02**|**NED-Tree: Bridging the Semantic Gap with Nonlinear Element Decomposition Tree for LLM Nonlinear Optimization Modeling**|Zhijing Hu et.al.|[2604.01588](http://arxiv.org/abs/2604.01588)|null|
+|**2026-04-02**|**A Unified Performance-Cost Landscape of Parallel p-bit Ising Machines Based on Update Dynamics**|Naoya Onizawa et.al.|[2604.01564](http://arxiv.org/abs/2604.01564)|null|
+|**2026-04-02**|**Variational Iterative Rotation Algorithm: Combinatorial Optimization with Classical Kicked Tops**|Flaviano Morone et.al.|[2604.01512](http://arxiv.org/abs/2604.01512)|null|
 |**2026-03-31**|**The Grothendieck Constant is Strictly Larger than Davie-Reeds' Bound**|Chris Jones et.al.|[2603.30039](http://arxiv.org/abs/2603.30039)|null|
 |**2026-03-31**|**Reducing Complexity for Quantum Approaches in Train Load Optimization**|Zhijie Tang et.al.|[2603.29543](http://arxiv.org/abs/2603.29543)|null|
 |**2026-03-31**|**Learning Semantic Priorities for Autonomous Target Search**|Max Lodel et.al.|[2603.29391](http://arxiv.org/abs/2603.29391)|null|
@@ -112,7 +129,7 @@
 |**2026-03-08**|**The Theory and Practice of Computing the Bus-Factor**|Sebastiano A. Piccolo et.al.|[2603.07845](http://arxiv.org/abs/2603.07845)|null|
 |**2026-03-08**|**Column Generation for the Micro-Transit Zoning Problem**|Hins Hu et.al.|[2603.07821](http://arxiv.org/abs/2603.07821)|null|
 
-<p align=right>(<a href=#updated-on-20260401>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260406>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
