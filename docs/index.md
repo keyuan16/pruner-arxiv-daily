@@ -2,13 +2,18 @@
 layout: default
 ---
 
-## Updated on 2026.04.06
+## Updated on 2026.04.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## Token Pruning
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**HAWK: Head Importance-Aware Visual Token Pruning in Multimodal Models**|Qihui Zhu et.al.|[2604.07812](http://arxiv.org/abs/2604.07812)|null|
+|**2026-04-07**|**SnapFlow: One-Step Action Generation for Flow-Matching VLAs via Progressive Self-Distillation**|Wuyang Luan et.al.|[2604.05656](http://arxiv.org/abs/2604.05656)|null|
+|**2026-04-07**|**ID-Selection: Importance-Diversity Based Visual Token Selection for Efficient LVLM Inference**|Zhaohong Huang et.al.|[2604.05601](http://arxiv.org/abs/2604.05601)|null|
+|**2026-04-04**|**RCP: Representation Consistency Pruner for Mitigating Distribution Shift in Large Vision-Language Models**|Jianwei Zhang et.al.|[2604.04972](http://arxiv.org/abs/2604.04972)|null|
+|**2026-04-03**|**KiToke: Kernel-based Interval-aware Token Compression for Video Large Language Models**|Haifeng Huang et.al.|[2604.03414](http://arxiv.org/abs/2604.03414)|null|
 |**2026-04-03**|**MI-Pruner: Crossmodal Mutual Information-guided Token Pruner for Efficient MLLMs**|Jiameng Li et.al.|[2604.03072](http://arxiv.org/abs/2604.03072)|null|
 |**2026-04-03**|**Collaborative Multi-Mode Pruning for Vision-Language Models**|Zimeng Wu et.al.|[2604.02956](http://arxiv.org/abs/2604.02956)|null|
 |**2026-04-03**|**QAPruner: Quantization-Aware Vision Token Pruning for Multimodal Large Language Models**|Xinhao Wang et.al.|[2604.02816](http://arxiv.org/abs/2604.02816)|null|
@@ -64,6 +69,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-04-09**|**Per-Shot Evaluation of QAOA on Max-Cut: A Black-Box Implementation Comparison with Goemans-Williamson**|Evgenii Dolzhkov et.al.|[2604.08367](http://arxiv.org/abs/2604.08367)|null|
+|**2026-04-09**|**Karma Mechanisms for Decentralised, Cooperative Multi Agent Path Finding**|Kevin Riehl et.al.|[2604.07970](http://arxiv.org/abs/2604.07970)|null|
+|**2026-04-09**|**Investigation of Automated Design of Quantum Circuits for Imaginary Time Evolution Methods Using Deep Reinforcement Learning**|Ryo Suzuki et.al.|[2604.07951](http://arxiv.org/abs/2604.07951)|null|
+|**2026-04-09**|**PyVRP $^+$ : LLM-Driven Metacognitive Heuristic Evolution for Hybrid Genetic Search in Vehicle Routing Problems**|Manuj Malik et.al.|[2604.07872](http://arxiv.org/abs/2604.07872)|null|
+|**2026-04-08**|**Learning interpretable and stable dynamical models via mixed-integer Lyapunov-constrained optimization**|Zhe Li et.al.|[2604.07611](http://arxiv.org/abs/2604.07611)|null|
+|**2026-04-08**|**Improving Feasibility in Quantum Approximate Optimization Algorithm for Vehicle Routing via Constraint-Aware Initialization and Hybrid XY-X Mixing**|Yuan-Zheng Lei et.al.|[2604.07218](http://arxiv.org/abs/2604.07218)|null|
+|**2026-04-08**|**A First Guess is Rarely the Final Answer: Learning to Search in the Travelling Salesperson Problem**|Andoni Irazusta Garmendia et.al.|[2604.06940](http://arxiv.org/abs/2604.06940)|null|
+|**2026-04-07**|**Neural Network Pruning via QUBO Optimization**|Osama Orabi et.al.|[2604.05856](http://arxiv.org/abs/2604.05856)|null|
+|**2026-04-07**|**A Nested Amplitude Amplification Protocol for the Binary Knapsack Problem**|Laurin Demmler et.al.|[2604.05776](http://arxiv.org/abs/2604.05776)|null|
+|**2026-04-07**|**Improved space-time tradeoff for TSP via extremal set systems**|Justin Dallant et.al.|[2604.05645](http://arxiv.org/abs/2604.05645)|null|
 |**2026-04-03**|**Let's Have a Conversation: Designing and Evaluating LLM Agents for Interactive Optimization**|Joshua Drossman et.al.|[2604.02666](http://arxiv.org/abs/2604.02666)|null|
 |**2026-04-02**|**RFOX (Rotated-Field Oscillatory eXchange) quantum algorithm: Towards Parameter-Free Quantum Optimizers**|Brian García Sarmina et.al.|[2604.02569](http://arxiv.org/abs/2604.02569)|null|
 |**2026-04-02**|**Principled and Scalable Diversity-Aware Retrieval via Cardinality-Constrained Binary Quadratic Programming**|Qiheng Lu et.al.|[2604.02554](http://arxiv.org/abs/2604.02554)|null|
