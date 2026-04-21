@@ -1,4 +1,4 @@
-## Updated on 2026.04.20
+## Updated on 2026.04.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-19**|**Towards Joint Quantization and Token Pruning of Vision-Language Models**|Xinqing Li et.al.|[2604.17320](http://arxiv.org/abs/2604.17320)|null|
+|**2026-04-18**|**EvoComp: Learning Visual Token Compression for Multimodal Large Language Models via Semantic-Guided Evolutionary Labeling**|Jiafei Song et.al.|[2604.17087](http://arxiv.org/abs/2604.17087)|null|
+|**2026-04-18**|**CATP: Confidence-Aware Token Pruning for Camouflaged Object Detection**|Yuhan Gao et.al.|[2604.16854](http://arxiv.org/abs/2604.16854)|null|
+|**2026-04-17**|**Optimizing Korean-Centric LLMs via Token Pruning**|Hoyeol Kim et.al.|[2604.16235](http://arxiv.org/abs/2604.16235)|null|
+|**2026-04-16**|**Dispatch-Aware Ragged Attention for Pruned Vision Transformers**|Saif Mahmoud et.al.|[2604.15408](http://arxiv.org/abs/2604.15408)|null|
+|**2026-04-16**|**VisPCO: Visual Token Pruning Configuration Optimization via Budget-Aware Pareto-Frontier Learning for Vision-Language Models**|Huawei Ji et.al.|[2604.15188](http://arxiv.org/abs/2604.15188)|null|
+|**2026-04-16**|**Compressing Sequences in the Latent Embedding Space: $K$ -Token Merging for Large Language Models**|Zihao Xu et.al.|[2604.15153](http://arxiv.org/abs/2604.15153)|null|
+|**2026-04-16**|**Revisiting Token Compression for Accelerating ViT-based Sparse Multi-View 3D Object Detectors**|Mingqian Ji et.al.|[2604.14563](http://arxiv.org/abs/2604.14563)|null|
+|**2026-04-16**|**One Token per Highly Selective Frame: Towards Extreme Compression for Long Video Understanding**|Zheyu Zhang et.al.|[2604.14149](http://arxiv.org/abs/2604.14149)|null|
+|**2026-04-15**|**UHR-BAT: Budget-Aware Token Compression Vision-Language model for Ultra-High-Resolution Remote Sensing**|Yunkai Dang et.al.|[2604.13565](http://arxiv.org/abs/2604.13565)|null|
 |**2026-04-09**|**HAWK: Head Importance-Aware Visual Token Pruning in Multimodal Models**|Qihui Zhu et.al.|[2604.07812](http://arxiv.org/abs/2604.07812)|null|
 |**2026-04-07**|**SnapFlow: One-Step Action Generation for Flow-Matching VLAs via Progressive Self-Distillation**|Wuyang Luan et.al.|[2604.05656](http://arxiv.org/abs/2604.05656)|null|
 |**2026-04-07**|**ID-Selection: Importance-Diversity Based Visual Token Selection for Efficient LVLM Inference**|Zhaohong Huang et.al.|[2604.05601](http://arxiv.org/abs/2604.05601)|null|
@@ -69,12 +79,22 @@
 |**2026-03-05**|**Keeping the Evidence Chain: Semantic Evidence Allocation for Training-Free Token Pruning in Video Temporal Grounding**|Jiaqi Li et.al.|[2603.05663](http://arxiv.org/abs/2603.05663)|null|
 |**2026-03-04**|**EvoPrune: Early-Stage Visual Token Pruning for Efficient MLLMs**|Yuhao Chen et.al.|[2603.03681](http://arxiv.org/abs/2603.03681)|null|
 
-<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260421>back to top</a>)</p>
 
 ## LLM Optimization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-20**|**Ranking Abuse via Strategic Pairwise Data Perturbations**|Junyi Yao et.al.|[2604.17805](http://arxiv.org/abs/2604.17805)|null|
+|**2026-04-20**|**A Numerical Analysis for Pursuit-Evasion Games under the Stackelberg Eqilibrium**|Kazuhiro Horie et.al.|[2604.17742](http://arxiv.org/abs/2604.17742)|null|
+|**2026-04-20**|**Co-evolving Agent Architectures and Interpretable Reasoning for Automated Optimization**|Jiahao Huang et.al.|[2604.17708](http://arxiv.org/abs/2604.17708)|null|
+|**2026-04-18**|**Bucket Brigades: Uniqueness of the Fixed Point and Three-Worker Asymptotics**|Yasser Alghouass et.al.|[2604.17127](http://arxiv.org/abs/2604.17127)|null|
+|**2026-04-18**|**AutoOR: Scalably Post-training LLMs to Autoformalize Operations Research Problems**|Sumeet Ramesh Motwani et.al.|[2604.16804](http://arxiv.org/abs/2604.16804)|null|
+|**2026-04-17**|**NCO4CVRP: Neural Combinatorial Optimization for the Capacitated Vehicle Routing Problem**|Mahir Labib Dihan et.al.|[2604.16581](http://arxiv.org/abs/2604.16581)|null|
+|**2026-04-17**|**Stein Variational Black-Box Combinatorial Optimization**|Thomas Landais et.al.|[2604.15837](http://arxiv.org/abs/2604.15837)|null|
+|**2026-04-17**|**Bilevel Optimization of Agent Skills via Monte Carlo Tree Search**|Chenyi Huang et.al.|[2604.15709](http://arxiv.org/abs/2604.15709)|null|
+|**2026-04-17**|**Optimization Workshop Notes for Mathematical Programming with Equilibrium Constraints Algorithms: Penalty Interior-Point, Implicit-Programming, and Piecewise SQP**|Jiguang Yu et.al.|[2604.15690](http://arxiv.org/abs/2604.15690)|null|
+|**2026-04-17**|**Explainable quantum regression algorithm with encoded data structure**|C. -C. Joseph Wang et.al.|[2604.15666](http://arxiv.org/abs/2604.15666)|null|
 |**2026-04-09**|**Per-Shot Evaluation of QAOA on Max-Cut: A Black-Box Implementation Comparison with Goemans-Williamson**|Evgenii Dolzhkov et.al.|[2604.08367](http://arxiv.org/abs/2604.08367)|null|
 |**2026-04-09**|**Karma Mechanisms for Decentralised, Cooperative Multi Agent Path Finding**|Kevin Riehl et.al.|[2604.07970](http://arxiv.org/abs/2604.07970)|null|
 |**2026-04-09**|**Investigation of Automated Design of Quantum Circuits for Imaginary Time Evolution Methods Using Deep Reinforcement Learning**|Ryo Suzuki et.al.|[2604.07951](http://arxiv.org/abs/2604.07951)|null|
@@ -144,7 +164,7 @@
 |**2026-03-08**|**The Theory and Practice of Computing the Bus-Factor**|Sebastiano A. Piccolo et.al.|[2603.07845](http://arxiv.org/abs/2603.07845)|null|
 |**2026-03-08**|**Column Generation for the Micro-Transit Zoning Problem**|Hins Hu et.al.|[2603.07821](http://arxiv.org/abs/2603.07821)|null|
 
-<p align=right>(<a href=#updated-on-20260420>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260421>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
