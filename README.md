@@ -1,4 +1,4 @@
-## Updated on 2026.04.21
+## Updated on 2026.04.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-22**|**Radiomics-Guided Vision Transformers for Survival Analysis**|Qiyuan Shi et.al.|[2604.21056](http://arxiv.org/abs/2604.21056)|null|
+|**2026-04-22**|**Sink-Token-Aware Pruning for Fine-Grained Video Understanding in Efficient Video LLMs**|Kibum Kim et.al.|[2604.20937](http://arxiv.org/abs/2604.20937)|null|
+|**2026-04-22**|**ATIR: Towards Audio-Text Interleaved Contextual Retrieval**|Tong Zhao et.al.|[2604.20267](http://arxiv.org/abs/2604.20267)|null|
+|**2026-04-22**|**Mask World Model: Predicting What Matters for Robust Robot Policy Learning**|Yunfan Lou et.al.|[2604.19683](http://arxiv.org/abs/2604.19683)|null|
+|**2026-04-21**|**ST-Prune: Training-Free Spatio-Temporal Token Pruning for Vision-Language Models in Autonomous Driving**|Lin Sha et.al.|[2604.19145](http://arxiv.org/abs/2604.19145)|null|
+|**2026-04-20**|**Geometry-Guided 3D Visual Token Pruning for Video-Language Models**|Han Li et.al.|[2604.18260](http://arxiv.org/abs/2604.18260)|null|
+|**2026-04-20**|**Stability Implies Redundancy: Delta Attention Selective Halting for Efficient Long-Context Prefilling**|Yujie Chen et.al.|[2604.18103](http://arxiv.org/abs/2604.18103)|null|
 |**2026-04-19**|**Towards Joint Quantization and Token Pruning of Vision-Language Models**|Xinqing Li et.al.|[2604.17320](http://arxiv.org/abs/2604.17320)|null|
 |**2026-04-18**|**EvoComp: Learning Visual Token Compression for Multimodal Large Language Models via Semantic-Guided Evolutionary Labeling**|Jiafei Song et.al.|[2604.17087](http://arxiv.org/abs/2604.17087)|null|
 |**2026-04-18**|**CATP: Confidence-Aware Token Pruning for Camouflaged Object Detection**|Yuhan Gao et.al.|[2604.16854](http://arxiv.org/abs/2604.16854)|null|
@@ -79,12 +86,22 @@
 |**2026-03-05**|**Keeping the Evidence Chain: Semantic Evidence Allocation for Training-Free Token Pruning in Video Temporal Grounding**|Jiaqi Li et.al.|[2603.05663](http://arxiv.org/abs/2603.05663)|null|
 |**2026-03-04**|**EvoPrune: Early-Stage Visual Token Pruning for Efficient MLLMs**|Yuhao Chen et.al.|[2603.03681](http://arxiv.org/abs/2603.03681)|null|
 
-<p align=right>(<a href=#updated-on-20260421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260426>back to top</a>)</p>
 
 ## LLM Optimization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-04-23**|**Speed-oriented quantum circuit backend**|Sören Wilkening et.al.|[2604.21656](http://arxiv.org/abs/2604.21656)|null|
+|**2026-04-23**|**OptiVerse: A Comprehensive Benchmark towards Optimization Problem Solving**|Xinyu Zhang et.al.|[2604.21510](http://arxiv.org/abs/2604.21510)|null|
+|**2026-04-23**|**Robustness Analysis of POMDP Policies to Observation Perturbations**|Benjamin Kraske et.al.|[2604.21256](http://arxiv.org/abs/2604.21256)|null|
+|**2026-04-23**|**Graph Neural Network-Informed Predictive Flows for Faster Ford-Fulkerson and PAC-Learnability**|Eleanor Wiesler et.al.|[2604.21175](http://arxiv.org/abs/2604.21175)|null|
+|**2026-04-22**|**Optimization Workshop Notes for Mathematical Programming with Equilibrium Constraints (MPECs): Second-Order Optimality Conditions**|Jiguang Yu et.al.|[2604.20992](http://arxiv.org/abs/2604.20992)|null|
+|**2026-04-22**|**Optimization Workshop Notes for Mathematical Programming with Equilibrium Constraints (MPECs): Verification of MPEC Hypotheses**|Jiguang Yu et.al.|[2604.20988](http://arxiv.org/abs/2604.20988)|null|
+|**2026-04-22**|**Cluster Vertex Deletion on Chordal Graphs**|Yixin Cao et.al.|[2604.20457](http://arxiv.org/abs/2604.20457)|null|
+|**2026-04-22**|**Cutting-plane methodology via quantum optimization for solving the Traveling Salesman Problem**|Alessia Ciacco et.al.|[2604.20321](http://arxiv.org/abs/2604.20321)|null|
+|**2026-04-22**|**CVaR-Assisted Custom Penalty Function for Constrained Optimization**|Xin Wei Lee et.al.|[2604.20088](http://arxiv.org/abs/2604.20088)|null|
+|**2026-04-22**|**CCOpt: an Open-Source Solver for Large-Scale Mathematical Programs with Complementarity Constraints**|Anton Pozharskiy et.al.|[2604.18726](http://arxiv.org/abs/2604.18726)|null|
 |**2026-04-20**|**Ranking Abuse via Strategic Pairwise Data Perturbations**|Junyi Yao et.al.|[2604.17805](http://arxiv.org/abs/2604.17805)|null|
 |**2026-04-20**|**A Numerical Analysis for Pursuit-Evasion Games under the Stackelberg Eqilibrium**|Kazuhiro Horie et.al.|[2604.17742](http://arxiv.org/abs/2604.17742)|null|
 |**2026-04-20**|**Co-evolving Agent Architectures and Interpretable Reasoning for Automated Optimization**|Jiahao Huang et.al.|[2604.17708](http://arxiv.org/abs/2604.17708)|null|
@@ -164,7 +181,7 @@
 |**2026-03-08**|**The Theory and Practice of Computing the Bus-Factor**|Sebastiano A. Piccolo et.al.|[2603.07845](http://arxiv.org/abs/2603.07845)|null|
 |**2026-03-08**|**Column Generation for the Micro-Transit Zoning Problem**|Hins Hu et.al.|[2603.07821](http://arxiv.org/abs/2603.07821)|null|
 
-<p align=right>(<a href=#updated-on-20260421>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260426>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
