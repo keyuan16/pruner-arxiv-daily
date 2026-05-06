@@ -1,4 +1,4 @@
-## Updated on 2026.05.04
+## Updated on 2026.05.06
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,9 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-04**|**Enhancing Multimodal In-Context Learning via Inductive-Deductive Reasoning**|Haoyu Wang et.al.|[2605.02378](http://arxiv.org/abs/2605.02378)|null|
+|**2026-05-03**|**Joint Architecture-Token-Bitwidth Multi-Axis Optimization of Vision Transformers for Semiconductor IC Packaging**|Phat Nguyen et.al.|[2605.01742](http://arxiv.org/abs/2605.01742)|null|
+|**2026-05-01**|**RTPrune: Reading-Twice Inspired Token Pruning for Efficient DeepSeek-OCR Inference**|Ben Wan et.al.|[2605.00392](http://arxiv.org/abs/2605.00392)|null|
 |**2026-04-28**|**Vision SmolMamba: Spike-Guided Token Pruning for Energy-Efficient Spiking State-Space Vision Models**|Dewei Bai et.al.|[2604.25570](http://arxiv.org/abs/2604.25570)|null|
 |**2026-04-27**|**LearnPruner: Rethinking Attention-based Token Pruning in Vision Language Models**|Rinyoichi Takezoe et.al.|[2604.23950](http://arxiv.org/abs/2604.23950)|null|
 |**2026-04-26**|**HeadRouter: Dynamic Head-Weight Routing for Task-Adaptive Audio Token Pruning in Large Audio Language Models**|Peize He et.al.|[2604.23717](http://arxiv.org/abs/2604.23717)|null|
@@ -90,12 +93,22 @@
 |**2026-03-05**|**Keeping the Evidence Chain: Semantic Evidence Allocation for Training-Free Token Pruning in Video Temporal Grounding**|Jiaqi Li et.al.|[2603.05663](http://arxiv.org/abs/2603.05663)|null|
 |**2026-03-04**|**EvoPrune: Early-Stage Visual Token Pruning for Efficient MLLMs**|Yuhao Chen et.al.|[2603.03681](http://arxiv.org/abs/2603.03681)|null|
 
-<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
 
 ## LLM Optimization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-05**|**Promoting Fair Online Resource Allocation with Indivisible Units**|Igor Averbakh et.al.|[2605.03436](http://arxiv.org/abs/2605.03436)|null|
+|**2026-05-04**|**Ranking with Partitioning**|Samuel Boardman et.al.|[2605.02874](http://arxiv.org/abs/2605.02874)|null|
+|**2026-05-04**|**ORPilot: A Production-Oriented Agentic LLM-for-OR Tool for Optimization Modeling**|Guangrui Xie et.al.|[2605.02728](http://arxiv.org/abs/2605.02728)|null|
+|**2026-05-04**|**Constraint Preserving XY-Mixers under Trotterized Adiabatic Evolution**|Abhishek Awasthi et.al.|[2605.02465](http://arxiv.org/abs/2605.02465)|null|
+|**2026-05-02**|**Structured Parameterization and Non-Stabilizerness in Hypergraph QAOA**|Evan Camilleri et.al.|[2605.01620](http://arxiv.org/abs/2605.01620)|null|
+|**2026-05-02**|**Hybrid Quantum Reinforcement Learning with QAOA for Improved Vehicle Routing Optimization**|T. Satyanarayana Murthy et.al.|[2605.01574](http://arxiv.org/abs/2605.01574)|null|
+|**2026-05-02**|**Position: LLM Serving Needs Mathematical Optimization and Algorithmic Foundations, Not Just Heuristics**|Zijie Zhou et.al.|[2605.01280](http://arxiv.org/abs/2605.01280)|null|
+|**2026-05-02**|**A Quantum Approach to Stochastic Optimization in Insurance Underwriting**|Mitchell Bordelon et.al.|[2605.01169](http://arxiv.org/abs/2605.01169)|null|
+|**2026-05-01**|**A Resource-Efficient Variational Quantum Framework for the Traveling Salesman Problem**|Yuefeng Lin et.al.|[2605.00739](http://arxiv.org/abs/2605.00739)|null|
+|**2026-05-01**|**Instance-Aware Parameter Configuration in Bilevel Late Acceptance Hill Climbing for the Electric Capacitated Vehicle Routing Problem**|Yinghao Qin et.al.|[2605.00572](http://arxiv.org/abs/2605.00572)|null|
 |**2026-04-30**|**FiLMMeD: Feature-wise Linear Modulation for Cross-Problem Multi-Depot Vehicle Routing**|Arthur Corrêa et.al.|[2604.28102](http://arxiv.org/abs/2604.28102)|null|
 |**2026-04-30**|**Design Structure Matrix Modularization with Large Language Models**|Shuo Jiang et.al.|[2604.28018](http://arxiv.org/abs/2604.28018)|null|
 |**2026-04-30**|**Flying by Inference: Active Inference World Models for Adaptive UAV Swarms**|Kaleem Arshid et.al.|[2604.27935](http://arxiv.org/abs/2604.27935)|null|
@@ -195,7 +208,7 @@
 |**2026-03-08**|**The Theory and Practice of Computing the Bus-Factor**|Sebastiano A. Piccolo et.al.|[2603.07845](http://arxiv.org/abs/2603.07845)|null|
 |**2026-03-08**|**Column Generation for the Micro-Transit Zoning Problem**|Hins Hu et.al.|[2603.07821](http://arxiv.org/abs/2603.07821)|null|
 
-<p align=right>(<a href=#updated-on-20260504>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
