@@ -1,4 +1,4 @@
-## Updated on 2026.05.06
+## Updated on 2026.05.11
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-08**|**ADKO: Agentic Decentralized Knowledge Optimization**|Lucas Nerone Rillo et.al.|[2605.07863](http://arxiv.org/abs/2605.07863)|null|
+|**2026-05-08**|**TTF: Temporal Token Fusion for Efficient Video-Language Model**|Simin Huo et.al.|[2605.07355](http://arxiv.org/abs/2605.07355)|null|
+|**2026-05-07**|**Spark3R: Asymmetric Token Reduction Makes Fast Feed-Forward 3D Reconstruction**|Zecheng Tang et.al.|[2605.06270](http://arxiv.org/abs/2605.06270)|null|
+|**2026-05-07**|**VisMMOE: Exploiting Visual-Expert Affinity for Efficient Visual-Language MoE Offloading**|Cheng Xu et.al.|[2605.05899](http://arxiv.org/abs/2605.05899)|null|
 |**2026-05-04**|**Enhancing Multimodal In-Context Learning via Inductive-Deductive Reasoning**|Haoyu Wang et.al.|[2605.02378](http://arxiv.org/abs/2605.02378)|null|
 |**2026-05-03**|**Joint Architecture-Token-Bitwidth Multi-Axis Optimization of Vision Transformers for Semiconductor IC Packaging**|Phat Nguyen et.al.|[2605.01742](http://arxiv.org/abs/2605.01742)|null|
 |**2026-05-01**|**RTPrune: Reading-Twice Inspired Token Pruning for Efficient DeepSeek-OCR Inference**|Ben Wan et.al.|[2605.00392](http://arxiv.org/abs/2605.00392)|null|
@@ -93,12 +97,22 @@
 |**2026-03-05**|**Keeping the Evidence Chain: Semantic Evidence Allocation for Training-Free Token Pruning in Video Temporal Grounding**|Jiaqi Li et.al.|[2603.05663](http://arxiv.org/abs/2603.05663)|null|
 |**2026-03-04**|**EvoPrune: Early-Stage Visual Token Pruning for Efficient MLLMs**|Yuhao Chen et.al.|[2603.03681](http://arxiv.org/abs/2603.03681)|null|
 
-<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
 
 ## LLM Optimization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-08**|**A Unified Local Light-shifts Encoding For Solving Optimization Problems on a Rydberg Annealer**|Kapil Goswami et.al.|[2605.07627](http://arxiv.org/abs/2605.07627)|null|
+|**2026-05-08**|**HMACE: Heterogeneous Multi-Agent Collaborative Evolution for Combinatorial Optimization**|Yuping Yan et.al.|[2605.07214](http://arxiv.org/abs/2605.07214)|null|
+|**2026-05-08**|**Solving Max-Cut to Global Optimality via Feasibility-Preserving Graph Neural Networks**|Hao Chen et.al.|[2605.07113](http://arxiv.org/abs/2605.07113)|null|
+|**2026-05-07**|**Mutation-Guided Differentiable Quadratic Combinatorial Optimization**|Yongliang Sun et.al.|[2605.06921](http://arxiv.org/abs/2605.06921)|null|
+|**2026-05-07**|**Optimal Counterfactual Search in Tree Ensembles: A Study Across Modeling and Solution Paradigms**|Awa Khouna et.al.|[2605.06561](http://arxiv.org/abs/2605.06561)|null|
+|**2026-05-07**|**Comparative Study of Potts Machine Dynamics and Performance for Max-k-Cut**|Bjarke Almer Frederiksen et.al.|[2605.06425](http://arxiv.org/abs/2605.06425)|null|
+|**2026-05-07**|**Back to the Beginning of Heuristic Design: Bridging Code and Knowledge with LLMs**|Nguyen Viet Tuan Kiet et.al.|[2605.06123](http://arxiv.org/abs/2605.06123)|null|
+|**2026-05-06**|**Out-of-the-Box Global Optimization for Packing Problems: New Models and Improved Solutions**|Timo Berthold et.al.|[2605.04850](http://arxiv.org/abs/2605.04850)|null|
+|**2026-05-06**|**Harnessing a 256-qubit Neutral Atom Simulator for Graph Classification**|Edoardo Giusto et.al.|[2605.04737](http://arxiv.org/abs/2605.04737)|null|
+|**2026-05-06**|**Neural-powered unit disk graph embedding: qubits connectivity for some QUBO problems**|Chiara Vercellino et.al.|[2605.04736](http://arxiv.org/abs/2605.04736)|null|
 |**2026-05-05**|**Promoting Fair Online Resource Allocation with Indivisible Units**|Igor Averbakh et.al.|[2605.03436](http://arxiv.org/abs/2605.03436)|null|
 |**2026-05-04**|**Ranking with Partitioning**|Samuel Boardman et.al.|[2605.02874](http://arxiv.org/abs/2605.02874)|null|
 |**2026-05-04**|**ORPilot: A Production-Oriented Agentic LLM-for-OR Tool for Optimization Modeling**|Guangrui Xie et.al.|[2605.02728](http://arxiv.org/abs/2605.02728)|null|
@@ -208,7 +222,7 @@
 |**2026-03-08**|**The Theory and Practice of Computing the Bus-Factor**|Sebastiano A. Piccolo et.al.|[2603.07845](http://arxiv.org/abs/2603.07845)|null|
 |**2026-03-08**|**Column Generation for the Micro-Transit Zoning Problem**|Hins Hu et.al.|[2603.07821](http://arxiv.org/abs/2603.07821)|null|
 
-<p align=right>(<a href=#updated-on-20260506>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
