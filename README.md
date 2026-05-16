@@ -1,4 +1,4 @@
-## Updated on 2026.05.11
+## Updated on 2026.05.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -13,6 +13,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-14**|**Representative Attention For Vision Transformers**|Yuntong Li et.al.|[2605.14913](http://arxiv.org/abs/2605.14913)|null|
+|**2026-05-14**|**OmniDrop: Layer-wise Token Pruning for Omni-modal LLMs via Query-Guidance**|Yeo Jeong Park et.al.|[2605.14458](http://arxiv.org/abs/2605.14458)|null|
+|**2026-05-13**|**CoReDiT: Spatial Coherence-Guided Token Pruning and Reconstruction for Efficient Diffusion Transformers**|Zhuojin Li et.al.|[2605.14191](http://arxiv.org/abs/2605.14191)|null|
+|**2026-05-13**|**RS-Claw: Progressive Active Tool Exploration via Hierarchical Skill Trees for Remote Sensing Agents**|Liangtian Liu et.al.|[2605.13391](http://arxiv.org/abs/2605.13391)|null|
+|**2026-05-13**|**GRIP-VLM: Group-Relative Importance Pruning for Efficient Vision-Language Models**|Mingzhe Huang et.al.|[2605.13375](http://arxiv.org/abs/2605.13375)|null|
+|**2026-05-13**|**Test-time Sparsity for Extreme Fast Action Diffusion**|Kangye Ji et.al.|[2605.13316](http://arxiv.org/abs/2605.13316)|null|
+|**2026-05-13**|**CLIP Tricks You: Training-free Token Pruning for Efficient Pixel Grounding in Large VIsion-Language Models**|Sangin Lee et.al.|[2605.13178](http://arxiv.org/abs/2605.13178)|null|
+|**2026-05-12**|**OmniRefine: Alignment-Aware Cooperative Compression for Efficient Omnimodal Large Language Models**|Yuchen Deng et.al.|[2605.12056](http://arxiv.org/abs/2605.12056)|null|
+|**2026-05-12**|**See What Matters: Differentiable Grid Sample Pruning for Generalizable Vision-Language-Action Model**|Yixu Feng et.al.|[2605.11817](http://arxiv.org/abs/2605.11817)|null|
+|**2026-05-12**|**OTT-Vid: Optimal Transport Temporal Token Compression for Video Large Language Models**|Minseok Kang et.al.|[2605.11803](http://arxiv.org/abs/2605.11803)|null|
 |**2026-05-08**|**ADKO: Agentic Decentralized Knowledge Optimization**|Lucas Nerone Rillo et.al.|[2605.07863](http://arxiv.org/abs/2605.07863)|null|
 |**2026-05-08**|**TTF: Temporal Token Fusion for Efficient Video-Language Model**|Simin Huo et.al.|[2605.07355](http://arxiv.org/abs/2605.07355)|null|
 |**2026-05-07**|**Spark3R: Asymmetric Token Reduction Makes Fast Feed-Forward 3D Reconstruction**|Zecheng Tang et.al.|[2605.06270](http://arxiv.org/abs/2605.06270)|null|
@@ -97,12 +107,22 @@
 |**2026-03-05**|**Keeping the Evidence Chain: Semantic Evidence Allocation for Training-Free Token Pruning in Video Temporal Grounding**|Jiaqi Li et.al.|[2603.05663](http://arxiv.org/abs/2603.05663)|null|
 |**2026-03-04**|**EvoPrune: Early-Stage Visual Token Pruning for Efficient MLLMs**|Yuhao Chen et.al.|[2603.03681](http://arxiv.org/abs/2603.03681)|null|
 
-<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260516>back to top</a>)</p>
 
 ## LLM Optimization
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2026-05-14**|**Due Process on Hold: A Queueing Framework for Improving Access in SNAP**|Andrew Daw et.al.|[2605.15165](http://arxiv.org/abs/2605.15165)|null|
+|**2026-05-14**|**Hybrid Metaheuristic Optimization of Distributed Control System Hardware Architecture with Model-Based Verification**|Ruslan Zakirzyanov et.al.|[2605.14788](http://arxiv.org/abs/2605.14788)|null|
+|**2026-05-14**|**LLM-Enabled Automated Algorithm Design for Multiuser Fluid Antenna Communications**|Gan Zheng et.al.|[2605.14661](http://arxiv.org/abs/2605.14661)|null|
+|**2026-05-14**|**An Amortized Efficiency Threshold for Comparing Neural and Heuristic Solvers in Combinatorial Optimization**|Sohaib Afifi et.al.|[2605.14624](http://arxiv.org/abs/2605.14624)|null|
+|**2026-05-14**|**A Unified Knowledge Embedded Reinforcement Learning-based Framework for Generalized Capacitated Vehicle Routing Problems**|Wen Wang et.al.|[2605.14416](http://arxiv.org/abs/2605.14416)|null|
+|**2026-05-13**|**Distribution-Aware Algorithm Design with LLM Agents**|Saharsh Koganti et.al.|[2605.14141](http://arxiv.org/abs/2605.14141)|null|
+|**2026-05-13**|**Computing Lower Bounds on the Nonnegative Rank via Non-Convex Optimization Solvers**|Timothy Baeckelant et.al.|[2605.14058](http://arxiv.org/abs/2605.14058)|null|
+|**2026-05-13**|**Graph Neural Networks with Triangle-Based Messages for the Multicut Problem**|Jannik Irmai et.al.|[2605.13673](http://arxiv.org/abs/2605.13673)|null|
+|**2026-05-13**|**CO-MAP: A Reinforcement Learning Approach to the Qubit Allocation Problem**|Ankit Kulshrestha et.al.|[2605.13638](http://arxiv.org/abs/2605.13638)|null|
+|**2026-05-13**|**Feedback-based quantum optimization and its classical counterpart: quantum advantage and the power of classical algorithms**|Tomohiro Hattori et.al.|[2605.13082](http://arxiv.org/abs/2605.13082)|null|
 |**2026-05-08**|**A Unified Local Light-shifts Encoding For Solving Optimization Problems on a Rydberg Annealer**|Kapil Goswami et.al.|[2605.07627](http://arxiv.org/abs/2605.07627)|null|
 |**2026-05-08**|**HMACE: Heterogeneous Multi-Agent Collaborative Evolution for Combinatorial Optimization**|Yuping Yan et.al.|[2605.07214](http://arxiv.org/abs/2605.07214)|null|
 |**2026-05-08**|**Solving Max-Cut to Global Optimality via Feasibility-Preserving Graph Neural Networks**|Hao Chen et.al.|[2605.07113](http://arxiv.org/abs/2605.07113)|null|
@@ -222,7 +242,7 @@
 |**2026-03-08**|**The Theory and Practice of Computing the Bus-Factor**|Sebastiano A. Piccolo et.al.|[2603.07845](http://arxiv.org/abs/2603.07845)|null|
 |**2026-03-08**|**Column Generation for the Micro-Transit Zoning Problem**|Hins Hu et.al.|[2603.07821](http://arxiv.org/abs/2603.07821)|null|
 
-<p align=right>(<a href=#updated-on-20260511>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20260516>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
